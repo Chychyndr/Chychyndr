@@ -24,17 +24,6 @@ Right now I'm learning by creating small projects, breaking things, fixing bugs,
 Focus: useful apps, automation, desktop development, Python tooling
 Mindset: learn deeply, build practically, improve step by step
 ```
-
----
-
-## 🚀 What I'm working on
-
-### 🎬 [Clip](https://github.com/Chychyndr/clip)
-
-A cross-platform desktop downloader and media processing toolkit powered by `yt-dlp`, `ffmpeg` and `ffprobe`.
-
----
-
 ## 🧠 Currently learning
 
 - Python and modern Python tooling with `uv`;
