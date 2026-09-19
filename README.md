@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About me
 
-I'm at the beginning of my programming journey, but I already enjoy building real tools instead of only reading theory.
+I'm at the beginning of my programming journey, but I already enjoy building real tools instead of only reading theory
 
-I like projects that solve practical problems: desktop apps, automation, media tools, bots, scripts and experiments with clean user interfaces.
+I like projects that solve practical problems: desktop apps, automation, media tools, bots, scripts and experiments with clean user interfaces
 
-Right now I'm learning by creating small projects, breaking things, fixing bugs, improving architecture and slowly making my code more professional.
+Right now I'm learning by creating small projects, breaking things, fixing bugs, improving architecture and slowly making my code more professional
 
 ```txt
 Focus: useful apps, automation, desktop development, Python tooling
@@ -26,9 +26,9 @@ Mindset: learn deeply, build practically, improve step by step
 ```
 ## 🧠 Currently learning
 
-- Python and modern Python tooling with `uv`;
-- Git, GitHub and project structure;
-- automation scripts and practical developer tools;
+- Python and modern Python tooling with `uv`
+- Git, GitHub and project structure
+- automation scripts and practical developer tools
 
 ---
 
@@ -51,19 +51,19 @@ Mindset: learn deeply, build practically, improve step by step
 
 I'm interested in building projects like:
 
-- desktop apps with simple and beautiful UI;
-- automation tools for Windows;
-- Telegram bots;
-- media utilities;
-- small web apps and game-like projects;
-- tools that make routine tasks faster.
+- desktop apps with simple and beautiful UI
+- automation tools for Windows
+- Telegram bots
+- media utilities
+- small web apps and game-like projects
+- tools that make routine tasks faster
 
 
 ## 🌱 A bit more about me
 
 ```txt
-I don't want to only copy code.
-I want to understand how things work, why they break, and how to make them better.
+I don't want to only copy code
+I want to understand how things work, why they break, and how to make them better
 ```
 
-I believe that even small projects are useful when they teach something real.
+I believe that even small projects are useful when they teach something real
